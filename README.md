@@ -17,4 +17,4 @@
 
 ### Conclusion:
 
-- We can able to achieve our objective by using decision tree classifier machine learning algorithm.
+- We can able to achieve our objective by using machine learning algorithm.
